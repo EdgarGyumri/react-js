@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.block{
+  width: 200px;
+  height: 200px;
+}
+
+.block-red{
+  background: red;
+}
+
+.block-green{
+  background: green;
+}
